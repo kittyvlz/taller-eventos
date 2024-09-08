@@ -1,0 +1,6 @@
+.btn-caja{
+    padding:5px;
+    background: #03e0a1;
+    display: flex;
+    justify-content: center;
+}
